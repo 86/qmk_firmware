@@ -1,4 +1,4 @@
-// Copyright 2023 86 (@86)
+// Copyright 2024 86 (@86)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
